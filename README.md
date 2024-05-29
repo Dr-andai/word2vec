@@ -1,3 +1,4 @@
+# TWO PROJECTS
 ## Word2Vec project
 
 This project attempts to offer and introduction on the Word2Vec model in NLP.
@@ -23,3 +24,7 @@ the cosine similarities for the word 'hiv' and displaying the top 10 most simila
 # The general take
 More work, in terms of learning the theory and writing the code is needed, to better come up with a 
 word2vec model that helps me understand the implementation of the model given the data fed.
+
+
+## Trials Project
+Project involves exploring bag of word models in python
